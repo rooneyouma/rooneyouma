@@ -30,6 +30,12 @@ Full-stack developer who builds, automates, and ships — comfortable across the
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+## 🔗 Links
+
+- 🌐 [Portfolio](https://rooneyouma.edoware.com)
+- 📝 [Edoware](https://www.edoware.com)
+- 🛠️ [Live Project — Synapse](https://synapse.edoware.com)
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rooney-ouma-449755221/)
