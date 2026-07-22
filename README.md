@@ -10,7 +10,7 @@ Full-stack developer who builds, automates, and ships — comfortable across the
 - ⚙️ Automating workflows with **n8n**, **CI/CD**, and **Docker**
 - 🐧 Comfortable in **Linux** environments end-to-end — from dev to deployment
 - 🧩 Fast adapter: I can pick up unfamiliar stacks and ship working solutions quickly
-- 💡 I care about clean architecture, automation, and shipping things that actually work
+- 💡 I care about clean architecture, automation, and shipping products that actually work
 
 ## 🛠️ Tech Stack
 
@@ -29,11 +29,6 @@ Full-stack developer who builds, automates, and ships — comfortable across the
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ## 📫 Let's Connect
 
