@@ -51,6 +51,7 @@ drwxr-xr-x  rooney  devops/
   <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff41" />
   <img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=00ff41" />
   <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/React_%26_React_Native-0d1117?style=flat-square&logo=react&logoColor=00ff41" />
   <img src="https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=00ff41" />
   <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00ff41" />
   <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00ff41" />
