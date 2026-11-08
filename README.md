@@ -8,7 +8,7 @@ Rooney Ouma — full-stack dev. builds, automates, ships.
 
 rooney@edoware:~$ cat /etc/motd
 Comfortable across the stack: backend APIs -> deployment pipelines.
-Picks up unfamiliar stacks fast. Ships things that actually work.
+Picks up unfamiliar stacks fast. Ships products that actually work.
 
 rooney@edoware:~$ uname -a
 Linux edoware 6.x #1 SMP rooney x86_64 GNU/Linux
@@ -36,6 +36,7 @@ drwxr-xr-x  rooney  languages/
 -rwxr-xr-x  rooney  go
 drwxr-xr-x  rooney  frameworks/
 -rwxr-xr-x  rooney  nextjs
+-rwxr-xr-x  rooney  react && react_native
 -rwxr-xr-x  rooney  django
 -rwxr-xr-x  rooney  fastapi
 drwxr-xr-x  rooney  devops/
@@ -60,15 +61,14 @@ drwxr-xr-x  rooney  devops/
 
 ```console
 rooney@edoware:~$ cat links.txt
-portfolio  -> https://rooneyouma.edoware.com
 edoware    -> https://www.edoware.com
-synapse    -> https://synapse.edoware.com   [LIVE]
+nira    -> https://nira.edoware.com   [LIVE]
 ```
 
 ```console
 rooney@edoware:~$ ./contact.sh
 [+] linkedin : https://www.linkedin.com/in/rooney-ouma-449755221/
-[+] email    : oumarooney47@gmail.com
+[+] email    : mail@edoware.com
 [+] status   : open to interesting problems
 
 rooney@edoware:~$ _
