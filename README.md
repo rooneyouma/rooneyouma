@@ -4,7 +4,7 @@
 
 ```console
 rooney@edoware:~$ whoami
-Rooney Ouma — full-stack dev. builds, automates, ships.
+Rooney Ouma — Software Systems Engineer. builds, automates, ships.
 
 rooney@edoware:~$ cat /etc/motd
 Comfortable across the stack: backend APIs -> deployment pipelines.
