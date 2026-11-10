@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=rooney%40edoware%3A%7E%24+whoami;software+systems+engineer;builds+%7C+automates+%7C+ships" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=rooney%40edoware%3A%7E%24+whoami;software+systems+engineer | AI/ML Engineer;builds+%7C+automates+%7C+ships" alt="typing intro" />
 </h1>
 
 ```console
 rooney@edoware:~$ whoami
-Rooney Ouma — Software Systems Engineer. builds, automates, ships.
+Rooney Ouma — Software Systems Engineer | AI/ML Engineer
 
 rooney@edoware:~$ cat /etc/motd
 Comfortable across the stack: backend APIs -> deployment pipelines.
